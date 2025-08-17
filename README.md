@@ -7,7 +7,7 @@ Vineet Kumar Bharti
 
 Github : https://github.com/vineet-phoenix
 
-This could be not possible in the mean time without you support.
+This could be not possible in the mean time without your support and efforts.
 
 # Fake Currency Identification Using Deep Learning
 
