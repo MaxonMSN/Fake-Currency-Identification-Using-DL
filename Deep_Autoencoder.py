@@ -9,7 +9,7 @@ import numpy as np
 from keras.preprocessing.image import img_to_array
 
 #Saving pictures in a directory or file
-save_dir = 'C:\\Users\\Majesty\\Desktop\\Practice\\py project\\adcam1\\'
+save_dir = 'Directory for saving pictures'
 os.chdir(save_dir)
 
 cam = cv.VideoCapture(0)
@@ -73,7 +73,7 @@ def preprocess_image(image):
     return normalized_image
 
 # Load the model
-model_path = r'C:\Users\Majesty\Desktop\Practice\py project\keras_model.h5'
+model_path = r'Model path'
 model = load_model(model_path)
 #model = keras.models.load_model(model_path)
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
@@ -141,3 +141,4 @@ for img1 in images1:
         '''else:
             print(f"Similarity: {similarity:.2f}%")'''
             
+
