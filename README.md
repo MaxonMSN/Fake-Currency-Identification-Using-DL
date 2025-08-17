@@ -76,36 +76,47 @@ Counterfeit notes threaten economic stability worldwide. Traditional detection m
 
 [1] D. Kumar and S. Chauhan, “Indian fake currency detection using
 computer vision,” Int. J. Sci. Eng. Res., vol. 7, 2020.
+
 [2] S. Kumar, A. Ghosh, and S. Roy, “A deep learning approach for fake
 currency detection using convolutional neural networks,” IEEE Access,
 vol. 12, pp. 12345–12356, 2024, doi: 10.1109/ACCESS.2024.1234567.
+
 [3] M. Patel and R. Singh, “Automatic identification of counterfeit
 banknotes using deep transfer learning,” Expert Syst. Appl., vol. 235, p.
 120456, 2024, doi: 10.1016/j.eswa.2024.120456.
+
 [4] L. Chen et al., “Robust fake currency recognition using multi-scale
 CNNs,” Pattern Recognit. Lett., vol. 175, pp. 1–8, 2023, doi:
 10.1016/j.patrec.2023.01.012.
+
 [5] J. Lee and H. Kim, “Currency authentication using YOLOv8 and
 attention mechanisms,” Sensors, vol. 24, no. 2, p. 345, 2024, doi:
 10.3390/s24020345.
+
 [6] R. Sharma, P. Gupta, and S. Agarwal, “Image-based counterfeit
 detection using ensemble deep learning,” J. Electron. Imaging, vol. 33, no.
 1, p. 013021, 2024, doi: 10.1117/1.JEI.33.1.013021.
+
 [7] M. S. Islam et al., “Banknote authentication using hybrid deep learning
 and handcrafted features,” Appl. Intell., vol. 54, pp. 1123–1135, 2024, doi:
 10.1007/s10489-023-05123-9.
+
 [8] F. Wang et al., “A survey on deep learning for image-based currency
 recognition,” ACM Comput. Surv., vol. 56, no. 2, pp. 1–29, 2024, doi:
 10.1145/3591234.
+
 [9] E. Garcia and J. Martinez, “Fake currency detection using lightweight
 CNNs for mobile devices,” IEEE Trans. Mobile Comput., vol. 23, no. 4,
 pp. 2345–2357, 2024, doi: 10.1109/TMC.2024.1234568.
+
 [10] D. Zhang et al., “Counterfeit detection in Indian currency using deep
 learning and edge detection,” Comput. Secur., vol. 137, p. 103012, 2024,
 doi: 10.1016/j.cose.2024.103012.
+
 [11] Y. Li, X. Zhao, and K. Wang, “Real-time fake note detection using
 YOLOv7,” Neural Comput. Appl., vol. 36, pp. 987–995, 2024, doi:
 10.1007/s00521-023-08976-7.
+
 [12] S. R. Das, “Deep learning-based feature extraction for counterfeit
 currency detection,” Multimed. Tools Appl., vol. 83, pp. 543–560, 2024,
 doi: 10.1007/s11042-023-16789-2.
